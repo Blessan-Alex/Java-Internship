@@ -1,0 +1,25 @@
+Image 1 (Task 1: Find Even or Odd Number)
+
+Objective:
+Develop a simple Java console application that allows the user to input an integer and checks whether the number is even or odd. This task introduces the fundamental concept of conditional logic and modulus arithmetic in Java. Understanding how to handle user input and apply basic decision-making structures is essential for every Java developer.
+Tools:
+• Java Development Kit (JDK)
+• Any Java IDE (IntelliJ IDEA, Eclipse, or VS Code)
+• Command-line terminal (optional)
+Key Concepts: Operators, If-Else, Modulus (%)
+Steps:
+• Ask the user to enter a number
+• Use % operator: if num % 2 == 0, it’s even
+• Display the result
+Image 2 (Interview Questions)
+
+What is the modulus operator in Java?
+How do you use the if-else statement in Java?
+What is the purpose of the Scanner class in Java?
+How do you take integer input from the user in Java?
+What are the basic data types used in Java for numeric values?
+Can an if condition contain multiple logical expressions?
+What happens if the user enters a non-integer value in a program expecting an integer?
+How does Java handle negative numbers with the modulus operator?
+What is the default value of an integer variable in Java?
+How would you extend the Even/Odd checker to repeat until the user exits?
