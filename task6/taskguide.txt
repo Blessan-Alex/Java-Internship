@@ -1,0 +1,34 @@
+Here is the extracted text from the two images:
+
+Image 1 (Task 6: JDBC & Database Integration)
+- Objective:
+  Connect Java application to a database and perform basic CRUD operations.
+
+- Tools: Java, MySQL (or H2 Database), JDBC Driver, IDE (Eclipse, IntelliJ)
+
+- Key Concepts: Database connectivity with JDBC, SQL CRUD operations, prepared statements to prevent SQL injection.
+
+- Steps:
+  1. Install MySQL or use H2 for in-memory DB.
+  2. Add JDBC driver to your project.
+  3. Create a users table with columns id, name, email.
+  4. Connect to DB using DriverManager.getConnection().
+  5. Insert user data using PreparedStatement.
+  6. Fetch and display data using ResultSet.
+  7. Close resources in finally block.
+
+Image 2 (Interview Questions)
+- Interview Questions:
+  1. What is JDBC in Java?
+  2. How do you connect Java with a database?
+  3. What is a PreparedStatement and why use it?
+  4. Difference between Statement and PreparedStatement?
+  5. What is SQL injection and how to prevent it?
+  6. How do you execute queries in JDBC?
+  7. What is ResultSet in JDBC?
+  8. How do you handle exceptions in JDBC?
+  9. How do you close database connections properly?
+  10. Can you use JDBC without a driver?
+
+- Outcome:
+  You’ll learn how to connect Java with databases and perform SQL operations securely.

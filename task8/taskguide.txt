@@ -1,0 +1,37 @@
+
+```
+Task 8: Frontend Integration with REST API
+
+Objective:
+Create a simple web page that interacts with the Spring Boot REST API built.
+
+Tools: HTML, CSS, JavaScript (Fetch API), Spring Boot (backend)
+
+Key Concepts: REST API consumption, Fetch API, JSON handling, DOM manipulation.
+
+Steps:
+1. Create index.html with a task list section and add-task form.
+2. Use fetch() to call the API (GET /tasks) and display tasks.
+3. Add a form with fetch() POST request to add tasks.
+4. After adding a task, refresh the list dynamically using JavaScript.
+5. Style with CSS for better UI.
+```
+
+Image 2:
+```
+Interview Questions:
+
+1. What is Fetch API in JavaScript?
+2. How do you send data to a REST API using JavaScript?
+3. What is the difference between JSON and JavaScript objects?
+4. What is DOM manipulation?
+5. How do you handle asynchronous requests in JavaScript?
+6. What is the difference between GET and POST methods?
+7. How do you handle API errors in JavaScript?
+8. What is CORS and how do you handle it in frontend-backend integration?
+9. What are promises in JavaScript?
+10. How do you update the UI dynamically without reloading the page?
+
+Outcome:
+You will learn how to connect a Java backend with a simple HTML/JS frontend for real-time data updates.
+```

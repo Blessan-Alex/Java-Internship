@@ -1,0 +1,33 @@
+Here is the extracted text from the two images:
+
+Image 1 (Task 5: Exception Handling – Robust File Processing)
+- Objective:
+  Improve the previous File I/O task by adding proper exception handling to make the program robust.
+
+- Tools: Java, IDE (Eclipse, IntelliJ, VS Code)
+
+- Key Concepts: Exception hierarchy, checked vs unchecked exceptions, custom exceptions, try-catch-finally.
+
+- Steps:
+  1. Start with Task 4’s CSV reading task.
+  2. Wrap file reading in a try-catch to handle FileNotFoundException.
+  3. Catch NumberFormatException when parsing price.
+  4. Create InvalidProductDataException and throw it for invalid rows.
+  5. Use finally to close resources safely.
+  6. Test with valid and invalid data.
+
+Image 2 (Interview Questions)
+- Interview Questions:
+  1. What is exception handling in Java?
+  2. What are checked and unchecked exceptions?
+  3. How does try-catch-finally work?
+  4. What is the difference between throw and throws?
+  5. How do you create a custom exception?
+  6. What happens if you don’t handle an exception?
+  7. Why is finally block used?
+  8. What is NumberFormatException?
+  9. How do you close resources in Java safely?
+ 10. What is the purpose of multiple catch blocks?
+
+- Outcome:
+  You’ll learn how to make code fault-tolerant and handle unexpected errors gracefully.

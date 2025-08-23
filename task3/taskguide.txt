@@ -1,0 +1,35 @@
+Here is the extracted text from the two images:
+
+Image 1 (Task 3: Collections & Sorting)
+- Task 3:Collections & Sorting
+
+- Objective:
+  Understand how to use Java Collections and implement sorting with Comparator.
+
+- Tools: Java, IDE (Eclipse, IntelliJ, VS Code)
+
+- Key Concepts: Work with String class, loops, StringBuilder, and conditional statements.
+
+- Steps:
+  1. Create Employee class with name, age, salary.
+  2. Add a constructor and toString() for easy display.
+  3. Store multiple employees in an ArrayList.
+  4. Use Collections.sort() with Comparator for sorting by salary (desc).
+  5. Sort by name (asc) using another Comparator.
+  6. Print sorted lists.
+
+Image 2 (Interview Questions)
+- Interview Questions:
+  1. What is a Comparator in Java?
+  2. Difference between Comparable and Comparator?
+  3. How does Collections.sort() work?
+  4. How do you sort objects in descending order?
+  5. What is the difference between ArrayList and LinkedList?
+  6. How does compare() method work in Comparator?
+  7. Can we sort a list without modifying it?
+  8. What is lambda expression in Java sorting?
+  9. How do you sort by multiple fields?
+  10. Why is List preferred for dynamic data?
+
+- Outcome:
+  You’ll know how to handle collections and apply sorting logic for real-world objects.

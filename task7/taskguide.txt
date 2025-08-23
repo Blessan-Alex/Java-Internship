@@ -1,0 +1,33 @@
+Here is the extracted text from the two images:
+
+Image 1 (Task 7: Build REST API with Spring Boot)
+- Objective:
+  Develop a simple REST API for task management that supports CRUD operations and JSON data exchange.
+
+- Tools: Java, Spring Boot, Maven/Gradle, Postman (for testing)
+
+- Key Concepts: REST architecture, HTTP methods, JSON serialization, Spring Boot annotations.
+
+- Steps:
+  1. Initialize Spring Boot project (start.spring.io).
+  2. Add dependencies: Spring Web, Spring Data JPA (optional).
+  3. Create Task class with id, title, description.
+  4. Create TaskController with CRUD endpoints.
+  5. Use @RestController and mapping annotations.
+  6. Test API using Postman with JSON requests/responses.
+
+Image 2 (Interview Questions)
+- Interview Questions:
+  1. What is REST API?
+  2. What are HTTP methods used in REST?
+  3. Difference between @RestController and @Controller?
+  4. How does Spring Boot simplify REST API creation?
+  5. What is JSON serialization in Java?
+  6. How do you test REST APIs?
+  7. What is the role of @RequestBody and @ResponseBody?
+  8. What is the default JSON converter in Spring Boot?
+  9. What is H2 Database and why is it used in Spring Boot?
+ 10. How do you handle errors in REST APIs?
+
+- Outcome:
+  You’ll learn to build a basic REST API and handle JSON data using Spring Boot

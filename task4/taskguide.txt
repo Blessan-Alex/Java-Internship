@@ -1,0 +1,31 @@
+Here is the extracted text from the two images:
+
+Image 1 (Task 4: File I/O – CSV Read & Write)
+- Objective:
+  Learn to read data from a file, process it, and write the result to another file in Java.
+
+- Tools: Java, IDE (Eclipse, IntelliJ, VS Code), CSV file
+
+- Key Concepts: File handling, reading/writing text files, parsing data, filtering using conditions.
+
+- Steps:
+  1. Create a sample products.csv file with name and price.
+  2. Use BufferedReader to read lines from the file.
+  3. Split each line by comma to get name and price.
+  4. Convert price to double and check if > 1000.
+  5. Use FileWriter to write matching products to a new CSV file.
+  6. Print success message and verify new file.
+
+Image 2 (Interview Questions)
+- Interview Questions:
+  1. What is BufferedReader in Java?
+  2. How do you read a file line by line?
+  3. What is the difference between FileReader and BufferedReader?
+  4. How do you write data to a file in Java? What is FileWriter?
+  5. How do you handle exceptions in file operations?
+  6. What is parsing in Java?
+  7. How do you split a string in Java? How do you check if a file exists?
+  8. What happens if you open a file that does not exist?
+
+- Outcome:
+  You will learn how to handle files and perform data processing in Java.

@@ -1,0 +1,64 @@
+Tools:
+Interview Questions:
+Create a Student class with id, name, and grade.
+Add a constructor and toString() method for display.
+Create an ArrayList<Student> in the main class.
+Write addStudent() method to add a new student.
+Write removeStudent() method to delete by ID.
+Write displayStudents() method to show all students.
+Use a loop or menu for user input (add/remove/list).
+Run and test with sample data.
+Objective:
+Create a simple program to manage students using Java OOP concepts.
+Outcome:
+Java, IDE (Eclipse, IntelliJ, or VS Code)
+Key Concepts: Understand Java OOP basics like classes, objects, methods, and using ArrayList for
+storing data.
+1.What is a class in Java?
+2.What is the difference between a class and an object?
+3.How does the ArrayList differ from an array?
+4.What is encapsulation in Java?
+5.How do you create and use constructors?
+6.What is method overloading?
+7.How does the remove() method work in ArrayList?
+8.What is the purpose of the toString() method?
+9.Why use ArrayList instead of arrays?
+10.What is the difference between ArrayList and LinkedList?
+Task 5:Java Basics & OOP – Student Management System
+JAVA DEVELOPER INTERNSHIP
+You
+’ll learn how to create objects, use collections, and implement OOP basics in Java.
+Steps:
+🌟 Task Submission Guidelines
+🕙 Time Window:
+You
+’
+ve got a 12-hour window—from 10:00 AM to 10:00 PM—to give your best. It’
+s your time to
+shine. But remember, once the clock hits 10:00 PM, submissions close.
+🔍 Self-Research Allowed:
+You
+’
+re not alone—but we believe in your ability to explore and grow. Feel free to use Google,
+YouTube, or any learning resource. Learning how to learn is your biggest strength.
+Debug Yourself:
+Mistakes? Perfect. That’
+s how real learning happens. Try solving issues on your own—it’ll build your
+confidence and sharpen your problem-solving skills for the future.
+💸 No Paid Tools:
+We value learning over luxury. If any task points to a paid tool, skip it. Don
+’t spend a single rupee.
+Just search for free, open-source options—we promise, it’
+s part of the real-world hustle.
+📁 GitHub Submission:
+For each task, start fresh. Create a new GitHub repo.
+Upload everything you used—your code, dataset, screenshots (if any), and a short README.md.
+That README is your story—tell us what you built, why, and how.
+📩 Submission:
+When you
+’
+re done and proud of what you
+’
+ve built, drop your GitHub repo link through the
+submission form. Let your work speak for you.
+JAVA DEVELOPER INTERNSHIP
